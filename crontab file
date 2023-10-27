@@ -1,0 +1,3 @@
+55 22 * * * /bin/bash /home/poornam/alarms/snelalarm.sh
+55 13 * * * /bin/bash /home/poornam/alarms/snelalarm.sh
+59 * * * * /bin/bash /home/poornam/alarms/healthalarm.sh
